@@ -1,10 +1,9 @@
-Package: @@PACKAGENAME@@
-Name: @@APPNAME@@ Mod Menu
+Package: com.hamad.shield
+Name: HamadShield
 Depends: mobilesubstrate
-Version: @@APPVERSION@@
+Version: 1.0.0
 Architecture: iphoneos-arm
-Description: @@APPNAME@@ Mod Menu by @@USER@@!
-Maintainer: @@USER@@
-Author: @@USER@@
+Description: Ultimate Protection Shield
+Maintainer: Hamad
+Author: The Architect
 Section: Tweaks
-Homepage: @@SITE@@
