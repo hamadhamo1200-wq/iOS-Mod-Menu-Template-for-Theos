@@ -51,3 +51,4 @@ void* custom_dlsym(void* handle, const char* symbol) {
     MSHookFunction((void *)stat, (void *)custom_stat, (void **)&orig_stat);
     MSHookFunction((void *)dlsym, (void *)custom_dlsym, (void **)&orig_dlsym);
 }
+// Boruto
