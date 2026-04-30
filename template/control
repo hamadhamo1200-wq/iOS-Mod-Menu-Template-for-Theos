@@ -3,7 +3,7 @@ Name: HamadShield
 Depends: mobilesubstrate
 Version: 1.0.0
 Architecture: iphoneos-arm
-Description: Ultimate Protection Shield
+Description: Protection Shield
 Maintainer: Hamad
-Author: The Architect
+Author: Architect
 Section: Tweaks
